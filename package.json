@@ -1,0 +1,10 @@
+{
+  "name": "github-action-test",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A small Node.js project for practicing GitHub Actions",
+  "scripts": {
+    "test": "node --test",
+    "start": "node app.js"
+  }
+}
